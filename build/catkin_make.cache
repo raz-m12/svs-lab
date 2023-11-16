@@ -1,0 +1,2 @@
+beginner_tutorials:f1tenth_simulator:using_markers
+-DCATKIN_DEVEL_PREFIX=/home/razvan/rv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/razvan/rv_ws/install -G Unix Makefiles

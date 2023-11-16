@@ -1,0 +1,15 @@
+/home/razvan/rv_ws/install/_setup_util.py
+/home/razvan/rv_ws/install/env.sh
+/home/razvan/rv_ws/install/setup.bash
+/home/razvan/rv_ws/install/local_setup.bash
+/home/razvan/rv_ws/install/setup.sh
+/home/razvan/rv_ws/install/local_setup.sh
+/home/razvan/rv_ws/install/setup.zsh
+/home/razvan/rv_ws/install/local_setup.zsh
+/home/razvan/rv_ws/install/.rosinstall
+/home/razvan/rv_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/razvan/rv_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/razvan/rv_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/razvan/rv_ws/install/share/beginner_tutorials/package.xml
+/home/razvan/rv_ws/install/lib/beginner_tutorials/talker.py
+/home/razvan/rv_ws/install/lib/beginner_tutorials/listener.py
